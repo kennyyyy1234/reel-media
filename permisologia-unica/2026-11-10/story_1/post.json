@@ -1,0 +1,31 @@
+{
+ "id": "PU-20261110-story_1",
+ "brand": "Permisología Única",
+ "date": "2026-11-10",
+ "slot": "story_1",
+ "type": "story",
+ "format": "story",
+ "topic": "Encuesta: ¿permiso detenido?",
+ "post_at": "2026-11-10T09:00:00-04:00",
+ "platforms": [
+  "instagram",
+  "facebook"
+ ],
+ "status": "ready",
+ "media": [
+  "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-10/story_1/01.jpg"
+ ],
+ "video_url": null,
+ "cover_url": "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-10/story_1/01.jpg",
+ "caption_ig": "",
+ "caption_fb": "",
+ "caption_tiktok": "",
+ "first_comment": "",
+ "cta_keyword": "",
+ "manual": true,
+ "manual_steps": "Añade el sticker de ENCUESTA debajo de la pregunta: Sí / No.",
+ "needs_input": "",
+ "news_based": false,
+ "verify_before_post": "",
+ "sources": []
+}

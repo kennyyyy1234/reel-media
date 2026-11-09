@@ -1,0 +1,31 @@
+{
+ "id": "PU-20261110-story_2",
+ "brand": "Permisología Única",
+ "date": "2026-11-10",
+ "slot": "story_2",
+ "type": "story",
+ "format": "story",
+ "topic": "Repost del reel R1",
+ "post_at": "2026-11-10T15:00:00-04:00",
+ "platforms": [
+  "instagram",
+  "facebook"
+ ],
+ "status": "ready",
+ "media": [
+  "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-10/story_2/01.jpg"
+ ],
+ "video_url": null,
+ "cover_url": "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-10/story_2/01.jpg",
+ "caption_ig": "",
+ "caption_fb": "",
+ "caption_tiktok": "",
+ "first_comment": "",
+ "cta_keyword": "",
+ "manual": true,
+ "manual_steps": "Comparte el reel de hoy a tu historia desde la app (avión de papel → Añadir a tu historia) y pon el sticker 'Nuevo reel'. La imagen adjunta es el respaldo si prefieres subirla.",
+ "needs_input": "",
+ "news_based": false,
+ "verify_before_post": "",
+ "sources": []
+}

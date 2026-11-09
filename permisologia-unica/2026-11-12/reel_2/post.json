@@ -1,0 +1,35 @@
+{
+ "id": "PU-20261112-reel_2",
+ "brand": "Permisología Única",
+ "date": "2026-11-12",
+ "slot": "reel_2",
+ "type": "reel",
+ "format": "reel",
+ "topic": "¿Van a eliminar el Permiso Único? Lo que pasó en el Senado",
+ "post_at": "2026-11-12T19:00:00-04:00",
+ "platforms": [
+  "instagram",
+  "facebook",
+  "tiktok"
+ ],
+ "status": "ready",
+ "media": [
+  "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-12/reel_2/reel.mp4"
+ ],
+ "video_url": "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-12/reel_2/reel.mp4",
+ "cover_url": "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-12/reel_2/cover.jpg",
+ "caption_ig": "¿Es verdad que van a eliminar el Permiso Único? 🧐\n\nEl 13 de octubre el Senado aprobó el Sustitutivo de los P. del S. 1173 y 1183. El plan: que el Permiso Único desaparezca para solicitudes futuras y lo sustituya un Registro de Uso declarativo.\n\nPero escucha lo importante: todavía NO es ley. Falta la Cámara y la firma de la gobernadora. Hoy, tu negocio sigue necesitando su Permiso Único vigente.\n\nEstatus: aprobado en el Senado · pendiente en la Cámara.\n\nComenta REFORMA y te orientamos. Te enviamos el resumen en arroz y habichuelas.\n\nInformación general, no es asesoría legal.\n\n#PermisologiaUnica #PermisosPuertoRico #PermisoUnico #ConstruccionPR #NegociosPR",
+ "caption_fb": "¿Es verdad que van a eliminar el Permiso Único? 🧐\n\nEl 13 de octubre el Senado aprobó el Sustitutivo de los P. del S. 1173 y 1183. El plan: que el Permiso Único desaparezca para solicitudes futuras y lo sustituya un Registro de Uso declarativo.\n\nPero escucha lo importante: todavía NO es ley. Falta la Cámara y la firma de la gobernadora. Hoy, tu negocio sigue necesitando su Permiso Único vigente.\n\nEstatus: aprobado en el Senado · pendiente en la Cámara.\n\nComenta REFORMA y te orientamos. También puedes llamarnos al 787-510-0685.\n\nInformación general, no es asesoría legal.\n\n#PermisologiaUnica #PermisosPuertoRico #PermisoUnico #ConstruccionPR #NegociosPR",
+ "caption_tiktok": "¿Es verdad que van a eliminar el Permiso Único? 🧐 Comenta REFORMA y te orientamos. #permisos #puertorico #construccion #negociospr #permisologiaunica",
+ "first_comment": "Estatus al día de hoy: aprobado en el Senado (13 oct 2026), pendiente en la Cámara. NO es ley todavía. Comenta REFORMA y te enviamos el resumen.",
+ "cta_keyword": "REFORMA",
+ "manual": false,
+ "manual_steps": "",
+ "needs_input": "",
+ "news_based": true,
+ "verify_before_post": "Confirmar en la Cámara (SUTRA) y prensa la mañana de publicación que el Sustitutivo PS 1173/1183 sigue pendiente. Si hubo votación, firma o veto: NO publicar, pedir CAMBIA.",
+ "sources": [
+  "https://www.metro.pr/noticias/2026/10/13/senado-de-puerto-rico-aprueba-reforma-de-permisos-y-rivera-schatz-deja-en-manos-de-la-gobernadora-posible-veto/",
+  "https://aldia.microjuris.com/2026/11/06/del-permiso-al-registro-lo-que-cambia-el-codigo-de-planificacion-y-permisos/"
+ ]
+}

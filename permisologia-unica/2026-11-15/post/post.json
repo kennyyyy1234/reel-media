@@ -1,0 +1,29 @@
+{
+ "id": "PU-20261115-post",
+ "brand": "Permisología Única",
+ "date": "2026-11-15",
+ "slot": "post",
+ "type": "post",
+ "format": "image",
+ "topic": "Permiso aprobado de la semana (prueba social)",
+ "post_at": "2026-11-15T12:00:00-04:00",
+ "platforms": [
+  "instagram",
+  "facebook"
+ ],
+ "status": "needs_input",
+ "media": [],
+ "video_url": null,
+ "cover_url": null,
+ "caption_ig": "",
+ "caption_fb": "",
+ "caption_tiktok": "",
+ "first_comment": "",
+ "cta_keyword": "PERMISO",
+ "manual": false,
+ "manual_steps": "",
+ "needs_input": "Aprobación REAL de la semana: tipo de permiso + municipio (+ foto o captura sin datos del cliente) y la lección del caso. Nunca inventar un caso.",
+ "news_based": false,
+ "verify_before_post": "",
+ "sources": []
+}

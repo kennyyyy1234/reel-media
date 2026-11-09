@@ -1,0 +1,32 @@
+{
+ "id": "PU-20261115-reel_4",
+ "brand": "Permisología Única",
+ "date": "2026-11-15",
+ "slot": "reel_4",
+ "type": "reel",
+ "format": "reel",
+ "topic": "¿Cuánto tarda un permiso? Por qué se detiene",
+ "post_at": "2026-11-15T19:00:00-04:00",
+ "platforms": [
+  "instagram",
+  "facebook",
+  "tiktok"
+ ],
+ "status": "ready",
+ "media": [
+  "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-15/reel_4/reel.mp4"
+ ],
+ "video_url": "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-15/reel_4/reel.mp4",
+ "cover_url": "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-15/reel_4/cover.jpg",
+ "caption_ig": "¿Por qué tu permiso tarda meses? Spoiler: muchas veces el atraso empezó antes de radicar. ⏳\n\nTres causas que vemos todas las semanas: zonificación sin verificar, documentos incompletos y planos mal preparados. Un permiso bien evaluado desde el día uno se mueve.\n\nComenta PERMISO y te orientamos. Evaluamos tu caso.\n\nInformación general, no es asesoría legal.\n\n#PermisologiaUnica #PermisosPuertoRico #PermisoUnico #ConstruccionPR #NegociosPR",
+ "caption_fb": "¿Por qué tu permiso tarda meses? Spoiler: muchas veces el atraso empezó antes de radicar. ⏳\n\nTres causas que vemos todas las semanas: zonificación sin verificar, documentos incompletos y planos mal preparados. Un permiso bien evaluado desde el día uno se mueve.\n\nComenta PERMISO y te orientamos. También puedes llamarnos al 787-510-0685.\n\nInformación general, no es asesoría legal.\n\n#PermisologiaUnica #PermisosPuertoRico #PermisoUnico #ConstruccionPR #NegociosPR",
+ "caption_tiktok": "¿Por qué tu permiso tarda meses? Spoiler: muchas veces el atraso empezó antes de radicar. ⏳ Comenta PERMISO y te orientamos. #permisos #puertorico #construccion #negociospr #permisologiaunica",
+ "first_comment": "Comenta PERMISO o escríbenos por DM y evaluamos tu caso desde el día uno.",
+ "cta_keyword": "PERMISO",
+ "manual": false,
+ "manual_steps": "",
+ "needs_input": "",
+ "news_based": false,
+ "verify_before_post": "",
+ "sources": []
+}

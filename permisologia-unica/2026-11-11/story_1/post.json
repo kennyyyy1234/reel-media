@@ -1,0 +1,31 @@
+{
+ "id": "PU-20261111-story_1",
+ "brand": "Permisología Única",
+ "date": "2026-11-11",
+ "slot": "story_1",
+ "type": "story",
+ "format": "story",
+ "topic": "Q&A sticker",
+ "post_at": "2026-11-11T09:00:00-04:00",
+ "platforms": [
+  "instagram",
+  "facebook"
+ ],
+ "status": "ready",
+ "media": [
+  "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-11/story_1/01.jpg"
+ ],
+ "video_url": null,
+ "cover_url": "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-11/story_1/01.jpg",
+ "caption_ig": "",
+ "caption_fb": "",
+ "caption_tiktok": "",
+ "first_comment": "",
+ "cta_keyword": "",
+ "manual": true,
+ "manual_steps": "Añade el sticker de PREGUNTAS debajo del texto: 'Pregúntanos de permisos'.",
+ "needs_input": "",
+ "news_based": false,
+ "verify_before_post": "",
+ "sources": []
+}

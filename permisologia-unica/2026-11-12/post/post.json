@@ -1,0 +1,40 @@
+{
+ "id": "PU-20261112-post",
+ "brand": "Permisología Única",
+ "date": "2026-11-12",
+ "slot": "post",
+ "type": "post",
+ "format": "carousel",
+ "topic": "Reforma de permisos: lo que aprobó el Senado y lo que falta",
+ "post_at": "2026-11-12T12:00:00-04:00",
+ "platforms": [
+  "instagram",
+  "facebook"
+ ],
+ "status": "ready",
+ "media": [
+  "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-12/post/01.jpg",
+  "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-12/post/02.jpg",
+  "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-12/post/03.jpg",
+  "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-12/post/04.jpg",
+  "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-12/post/05.jpg"
+ ],
+ "video_url": null,
+ "cover_url": "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-12/post/01.jpg",
+ "caption_ig": "Reforma de permisos explicada: qué aprobó el Senado el 13 de octubre y qué falta para que sea ley. 📰\n\n• Crea un Código de Planificación y Permisos (Sustitutivo P. del S. 1173 y 1183)\n• El Permiso Único desaparecería para solicitudes futuras → Registro de Uso\n• Propone un Permiso de Construcción Consolidado\n• Estatus: aprobado en el Senado, pendiente en la Cámara. NO es ley.\n\nFuentes: Metro PR, Microjuris, Primera Hora, Telemundo PR.\n\nComenta REFORMA y te orientamos.\n\nInformación general, no es asesoría legal.\n\n#PermisologiaUnica #PermisosPuertoRico #PermisoUnico #ConstruccionPR #NegociosPR",
+ "caption_fb": "Reforma de permisos explicada: qué aprobó el Senado el 13 de octubre y qué falta para que sea ley. 📰\n\n• Crea un Código de Planificación y Permisos (Sustitutivo P. del S. 1173 y 1183)\n• El Permiso Único desaparecería para solicitudes futuras → Registro de Uso\n• Propone un Permiso de Construcción Consolidado\n• Estatus: aprobado en el Senado, pendiente en la Cámara. NO es ley.\n\nFuentes: Metro PR, Microjuris, Primera Hora, Telemundo PR.\n\nComenta REFORMA y te orientamos. También puedes llamarnos al 787-510-0685.\n\nInformación general, no es asesoría legal.\n\n#PermisologiaUnica #PermisosPuertoRico #PermisoUnico #ConstruccionPR #NegociosPR",
+ "caption_tiktok": "Reforma de permisos explicada: qué aprobó el Senado el 13 de octubre y qué falta para que sea ley. 📰 Comenta REFORMA y te orientamos. #permisos #puertorico #construccion #negociospr #permisologiaunica",
+ "first_comment": "",
+ "cta_keyword": "REFORMA",
+ "manual": false,
+ "manual_steps": "",
+ "needs_input": "",
+ "news_based": true,
+ "verify_before_post": "Re-verificar estatus en la Cámara antes de publicar.",
+ "sources": [
+  "https://www.metro.pr/noticias/2026/10/13/senado-de-puerto-rico-aprueba-reforma-de-permisos-y-rivera-schatz-deja-en-manos-de-la-gobernadora-posible-veto/",
+  "https://aldia.microjuris.com/2026/11/06/del-permiso-al-registro-lo-que-cambia-el-codigo-de-planificacion-y-permisos/",
+  "https://www.primerahora.com/noticias/gobierno-politica/notas/presentan-en-el-senado-nuevo-proyecto-de-reforma-de-permisos/",
+  "https://www.telemundopr.com/noticias/puerto-rico/senado-aprueba-a-viva-voz-proyecto-sustitutivo-de-permisos/2851862/"
+ ]
+}

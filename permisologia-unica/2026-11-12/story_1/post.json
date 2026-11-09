@@ -1,0 +1,31 @@
+{
+ "id": "PU-20261112-story_1",
+ "brand": "Permisología Única",
+ "date": "2026-11-12",
+ "slot": "story_1",
+ "type": "story",
+ "format": "story",
+ "topic": "NOTICIA flash: estatus de la reforma",
+ "post_at": "2026-11-12T09:00:00-04:00",
+ "platforms": [
+  "instagram",
+  "facebook"
+ ],
+ "status": "ready",
+ "media": [
+  "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-12/story_1/01.jpg"
+ ],
+ "video_url": null,
+ "cover_url": "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-12/story_1/01.jpg",
+ "caption_ig": "",
+ "caption_fb": "",
+ "caption_tiktok": "",
+ "first_comment": "",
+ "cta_keyword": "",
+ "manual": true,
+ "manual_steps": "Añade un sticker de ENLACE o menciona el post de hoy (Compartir post → historia) si quieres llevar tráfico al carrusel.",
+ "needs_input": "",
+ "news_based": true,
+ "verify_before_post": "Re-verificar estatus en la Cámara.",
+ "sources": []
+}

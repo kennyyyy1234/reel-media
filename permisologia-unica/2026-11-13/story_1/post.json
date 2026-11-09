@@ -1,0 +1,29 @@
+{
+ "id": "PU-20261113-story_1",
+ "brand": "Permisología Única",
+ "date": "2026-11-13",
+ "slot": "story_1",
+ "type": "story",
+ "format": "story",
+ "topic": "Detrás de cámaras",
+ "post_at": "2026-11-13T09:00:00-04:00",
+ "platforms": [
+  "instagram",
+  "facebook"
+ ],
+ "status": "needs_input",
+ "media": [],
+ "video_url": null,
+ "cover_url": null,
+ "caption_ig": "",
+ "caption_fb": "",
+ "caption_tiktok": "",
+ "first_comment": "",
+ "cta_keyword": "",
+ "manual": true,
+ "manual_steps": "",
+ "needs_input": "Foto real de una visita a proyecto (con permiso del cliente, sin datos sensitivos).",
+ "news_based": false,
+ "verify_before_post": "",
+ "sources": []
+}

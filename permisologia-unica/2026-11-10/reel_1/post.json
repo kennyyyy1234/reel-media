@@ -1,0 +1,32 @@
+{
+ "id": "PU-20261110-reel_1",
+ "brand": "Permisología Única",
+ "date": "2026-11-10",
+ "slot": "reel_1",
+ "type": "reel",
+ "format": "reel",
+ "topic": "El error #1 al construir en PR",
+ "post_at": "2026-11-10T19:00:00-04:00",
+ "platforms": [
+  "instagram",
+  "facebook",
+  "tiktok"
+ ],
+ "status": "ready",
+ "media": [
+  "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-10/reel_1/reel.mp4"
+ ],
+ "video_url": "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-10/reel_1/reel.mp4",
+ "cover_url": "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-10/reel_1/cover.jpg",
+ "caption_ig": "El error que más dinero le cuesta a la gente que construye en Puerto Rico… no es el contratista. Es empezar sin permiso.\n\n“Eso es una remodelación pequeña, no necesita nada”… hasta que llega la orden de paralización. Multa + obra parada + rehacer lo que ya construiste.\n\nAntes de mover un solo bloque, verifica qué permiso aplica a tu obra.\n\nComenta PERMISO y te orientamos.\n\nInformación general, no es asesoría legal.\n\n#PermisologiaUnica #PermisosPuertoRico #PermisoUnico #ConstruccionPR #NegociosPR",
+ "caption_fb": "El error que más dinero le cuesta a la gente que construye en Puerto Rico… no es el contratista. Es empezar sin permiso.\n\n“Eso es una remodelación pequeña, no necesita nada”… hasta que llega la orden de paralización. Multa + obra parada + rehacer lo que ya construiste.\n\nAntes de mover un solo bloque, verifica qué permiso aplica a tu obra.\n\nComenta PERMISO y te orientamos. También puedes llamarnos al 787-510-0685.\n\nInformación general, no es asesoría legal.\n\n#PermisologiaUnica #PermisosPuertoRico #PermisoUnico #ConstruccionPR #NegociosPR",
+ "caption_tiktok": "El error que más dinero le cuesta a la gente que construye en Puerto Rico… no es el contratista. Es empezar sin permiso. Comenta PERMISO y te orientamos. #permisos #puertorico #construccion #negociospr #permisologiaunica",
+ "first_comment": "¿Tu obra necesita permiso? Comenta PERMISO o escríbenos por DM y te decimos qué aplica a tu caso.",
+ "cta_keyword": "PERMISO",
+ "manual": false,
+ "manual_steps": "",
+ "needs_input": "",
+ "news_based": false,
+ "verify_before_post": "",
+ "sources": []
+}

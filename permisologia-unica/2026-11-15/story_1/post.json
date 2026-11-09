@@ -1,0 +1,31 @@
+{
+ "id": "PU-20261115-story_1",
+ "brand": "Permisología Única",
+ "date": "2026-11-15",
+ "slot": "story_1",
+ "type": "story",
+ "format": "story",
+ "topic": "Resumen de la semana",
+ "post_at": "2026-11-15T09:00:00-04:00",
+ "platforms": [
+  "instagram",
+  "facebook"
+ ],
+ "status": "ready",
+ "media": [
+  "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-15/story_1/01.jpg"
+ ],
+ "video_url": null,
+ "cover_url": "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-15/story_1/01.jpg",
+ "caption_ig": "",
+ "caption_fb": "",
+ "caption_tiktok": "",
+ "first_comment": "",
+ "cta_keyword": "",
+ "manual": false,
+ "manual_steps": "",
+ "needs_input": "",
+ "news_based": false,
+ "verify_before_post": "",
+ "sources": []
+}

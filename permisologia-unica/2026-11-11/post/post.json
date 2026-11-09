@@ -1,0 +1,34 @@
+{
+ "id": "PU-20261111-post",
+ "brand": "Permisología Única",
+ "date": "2026-11-11",
+ "slot": "post",
+ "type": "post",
+ "format": "carousel",
+ "topic": "5 documentos que casi todo permiso de construcción necesita",
+ "post_at": "2026-11-11T12:00:00-04:00",
+ "platforms": [
+  "instagram",
+  "facebook"
+ ],
+ "status": "ready",
+ "media": [
+  "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-11/post/01.jpg",
+  "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-11/post/02.jpg",
+  "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-11/post/03.jpg",
+  "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-11/post/04.jpg"
+ ],
+ "video_url": null,
+ "cover_url": "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-11/post/01.jpg",
+ "caption_ig": "Guarda esto 📌 Los 5 documentos base de un permiso de construcción:\n\n1. Escritura o título de propiedad\n2. Certificación registral\n3. Número de catastro\n4. Planos firmados y sellados\n5. Identificación del dueño o representante\n\nSegún tu proyecto, pueden requerir más.\n\nComenta PERMISO y te orientamos.\n\nInformación general, no es asesoría legal.\n\n#PermisologiaUnica #PermisosPuertoRico #PermisoUnico #ConstruccionPR #NegociosPR",
+ "caption_fb": "Guarda esto 📌 Los 5 documentos base de un permiso de construcción:\n\n1. Escritura o título de propiedad\n2. Certificación registral\n3. Número de catastro\n4. Planos firmados y sellados\n5. Identificación del dueño o representante\n\nSegún tu proyecto, pueden requerir más.\n\nComenta PERMISO y te orientamos. También puedes llamarnos al 787-510-0685.\n\nInformación general, no es asesoría legal.\n\n#PermisologiaUnica #PermisosPuertoRico #PermisoUnico #ConstruccionPR #NegociosPR",
+ "caption_tiktok": "Guarda esto 📌 Los 5 documentos base de un permiso de construcción: Comenta PERMISO y te orientamos. #permisos #puertorico #construccion #negociospr #permisologiaunica",
+ "first_comment": "",
+ "cta_keyword": "PERMISO",
+ "manual": false,
+ "manual_steps": "",
+ "needs_input": "",
+ "news_based": false,
+ "verify_before_post": "",
+ "sources": []
+}

@@ -1,0 +1,33 @@
+{
+ "id": "PU-20261110-post",
+ "brand": "Permisología Única",
+ "date": "2026-11-10",
+ "slot": "post",
+ "type": "post",
+ "format": "carousel",
+ "topic": "Conoce a Permisología Única",
+ "post_at": "2026-11-10T12:00:00-04:00",
+ "platforms": [
+  "instagram",
+  "facebook"
+ ],
+ "status": "ready",
+ "media": [
+  "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-10/post/01.jpg",
+  "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-10/post/02.jpg",
+  "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-10/post/03.jpg"
+ ],
+ "video_url": null,
+ "cover_url": "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-10/post/01.jpg",
+ "caption_ig": "Hacemos que los permisos sean rápidos y sin estrés — bien hechos desde el principio.\n\nRadicamos permisos de construcción, de uso, Permiso Único, cambios de uso y demolición, para dueños de negocios, dueños de propiedades y desarrolladores.\n\nEscríbenos por DM.\n\nInformación general, no es asesoría legal.\n\n#PermisologiaUnica #PermisosPuertoRico #PermisoUnico #ConstruccionPR #NegociosPR",
+ "caption_fb": "Hacemos que los permisos sean rápidos y sin estrés — bien hechos desde el principio.\n\nRadicamos permisos de construcción, de uso, Permiso Único, cambios de uso y demolición, para dueños de negocios, dueños de propiedades y desarrolladores.\n\nEscríbenos por DM. También puedes llamarnos al 787-510-0685.\n\nInformación general, no es asesoría legal.\n\n#PermisologiaUnica #PermisosPuertoRico #PermisoUnico #ConstruccionPR #NegociosPR",
+ "caption_tiktok": "Hacemos que los permisos sean rápidos y sin estrés — bien hechos desde el principio. Escríbenos por DM. #permisos #puertorico #construccion #negociospr #permisologiaunica",
+ "first_comment": "",
+ "cta_keyword": "DM",
+ "manual": false,
+ "manual_steps": "",
+ "needs_input": "",
+ "news_based": false,
+ "verify_before_post": "",
+ "sources": []
+}

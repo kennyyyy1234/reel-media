@@ -1,0 +1,31 @@
+{
+ "id": "PU-20261112-story_2",
+ "brand": "Permisología Única",
+ "date": "2026-11-12",
+ "slot": "story_2",
+ "type": "story",
+ "format": "story",
+ "topic": "Encuesta reforma",
+ "post_at": "2026-11-12T15:00:00-04:00",
+ "platforms": [
+  "instagram",
+  "facebook"
+ ],
+ "status": "ready",
+ "media": [
+  "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-12/story_2/01.jpg"
+ ],
+ "video_url": null,
+ "cover_url": "https://raw.githubusercontent.com/kennyyyy1234/reel-media/main/permisologia-unica/2026-11-12/story_2/01.jpg",
+ "caption_ig": "",
+ "caption_fb": "",
+ "caption_tiktok": "",
+ "first_comment": "",
+ "cta_keyword": "",
+ "manual": true,
+ "manual_steps": "Añade el sticker de ENCUESTA: Sí / No.",
+ "needs_input": "",
+ "news_based": false,
+ "verify_before_post": "",
+ "sources": []
+}
